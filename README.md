@@ -1,6 +1,6 @@
 # What Is This
 
-What Is This, is a python application capable of recognizing patterns in binaries of any type and through its signature bank defining its type, as well as obtaining hidden information and strings.
+What Is This, is a python application capable of recognizing patterns in binaries of any type and through its signature database defining its type, as well as obtaining hidden information and strings.
 
 ## See in action
 
